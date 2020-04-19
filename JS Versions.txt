@@ -1,0 +1,12 @@
+Leanring 
+
+==========
+- live script renamed to java script - year 1996
+- year 1997 with ECMA standards called as ES5
+- year 2009 ECMA big standards implementation and called as ES5
+- year 2015 ES6
+- every year new release and will be named ES2016, ED2017 etc...
+
+
+
+
